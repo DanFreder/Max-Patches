@@ -40,6 +40,68 @@
 		"helpsidebarclosed" : 1,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-227",
+					"maxclass" : "slider",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 796.0042724609375, 497.72821044921875, 20.0, 140.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 2.982025146484375, 476.72821044921875, 1067.754150390625, 117.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-219",
+					"maxclass" : "newobj",
+					"numinlets" : 3,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"patching_rect" : [ 821.0, 614.0, 79.0, 22.0 ],
+					"text" : "drunk 127 10"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-217",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 821.0, 560.0, 70.0, 22.0 ],
+					"text" : "loadmess 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-198",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"patching_rect" : [ 821.0, 587.2681884765625, 56.0, 22.0 ],
+					"text" : "metro 15"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 25.298918111946193,
+					"id" : "obj-136",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 694.00628662109375, 642.5, 292.0, 35.0 ],
+					"text" : "BLAH BLAH TEST TEST"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-197",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -32605,7 +32667,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u437003318"
+									"varname" : "u224001804"
 								}
 
 							}
@@ -39615,7 +39677,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u943003316"
+									"varname" : "u959001802"
 								}
 
 							}
@@ -47208,7 +47270,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u156003314"
+									"varname" : "u080001800"
 								}
 
 							}
@@ -53304,7 +53366,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u246003310"
+									"varname" : "u857001796"
 								}
 
 							}
@@ -58481,7 +58543,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u618003308"
+									"varname" : "u041001794"
 								}
 
 							}
@@ -62944,7 +63006,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u699003306"
+									"varname" : "u097001792"
 								}
 
 							}
@@ -86406,6 +86468,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-219", 0 ],
+					"source" : [ "obj-198", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-258", 0 ],
 					"hidden" : 1,
 					"source" : [ "obj-199", 0 ]
@@ -86481,9 +86550,23 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-198", 0 ],
+					"source" : [ "obj-217", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-211", 0 ],
 					"hidden" : 1,
 					"source" : [ "obj-218", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-227", 0 ],
+					"source" : [ "obj-219", 0 ]
 				}
 
 			}
@@ -88339,110 +88422,110 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-224::obj-19" : [ "number[9]", "number[1]", 0 ],
-			"obj-224::obj-68" : [ "number[7]", "number[2]", 0 ],
-			"obj-16" : [ "slider[5]", "slider[5]", 0 ],
-			"obj-247" : [ "umenu", "umenu", 0 ],
-			"obj-53" : [ "number[26]", "number[26]", 0 ],
-			"obj-62" : [ "dial[9]", "dial[9]", 0 ],
-			"obj-224::obj-21" : [ "number[18]", "number[2]", 0 ],
-			"obj-216" : [ "toggle[2]", "toggle[2]", 0 ],
-			"obj-257" : [ "button[16]", "button[16]", 0 ],
-			"obj-224::obj-33" : [ "number[19]", "number[3]", 0 ],
-			"obj-50" : [ "dial[5]", "dial[5]", 0 ],
-			"obj-224::obj-63" : [ "number[14]", "number[2]", 0 ],
-			"obj-224::obj-178" : [ "number[8]", "number[2]", 0 ],
-			"obj-274" : [ "button[12]", "button[12]", 0 ],
-			"obj-84" : [ "number[37]", "number[37]", 0 ],
-			"obj-246" : [ "toggle[1]", "toggle[1]", 0 ],
-			"obj-224::obj-90" : [ "number[5]", "number[3]", 0 ],
-			"obj-80" : [ "dial[15]", "dial[15]", 0 ],
-			"obj-96" : [ "number[45]", "number[45]", 0 ],
-			"obj-265" : [ "button[15]", "button[15]", 0 ],
-			"obj-47" : [ "number[25]", "number[25]", 0 ],
-			"obj-46" : [ "dial[2]", "dial[2]", 0 ],
-			"obj-18" : [ "slider[3]", "slider[3]", 0 ],
-			"obj-143" : [ "button[19]", "button[19]", 0 ],
-			"obj-51" : [ "number[24]", "number[24]", 0 ],
-			"obj-68" : [ "dial[11]", "dial[11]", 0 ],
-			"obj-35" : [ "dial[1]", "dial[1]", 0 ],
-			"obj-56" : [ "dial[7]", "dial[7]", 0 ],
-			"obj-13" : [ "slider", "slider", 0 ],
-			"obj-74" : [ "dial[13]", "dial[13]", 0 ],
-			"obj-311" : [ "button[10]", "button[10]", 0 ],
-			"obj-224::obj-65" : [ "number[10]", "number[1]", 0 ],
-			"obj-20" : [ "slider[6]", "slider[6]", 0 ],
-			"obj-61" : [ "button[4]", "button[4]", 0 ],
-			"obj-44" : [ "dial[3]", "dial[3]", 0 ],
-			"obj-224::obj-55" : [ "number[1]", "number[1]", 0 ],
-			"obj-361" : [ "toggle[3]", "toggle[3]", 0 ],
-			"obj-256" : [ "button[17]", "button[17]", 0 ],
-			"obj-336" : [ "toggle[4]", "toggle[4]", 0 ],
-			"obj-158" : [ "button[20]", "button[20]", 0 ],
-			"obj-224::obj-56" : [ "number[2]", "number[2]", 0 ],
-			"obj-78" : [ "number[35]", "number[35]", 0 ],
-			"obj-49" : [ "button[2]", "button[2]", 0 ],
-			"obj-224::obj-177" : [ "number[12]", "number[1]", 0 ],
-			"obj-224::obj-62" : [ "number[4]", "number[1]", 0 ],
-			"obj-171" : [ "number[44]", "number[44]", 0 ],
-			"obj-82" : [ "dial[14]", "dial[14]", 0 ],
-			"obj-224::obj-57" : [ "number[3]", "number[3]", 0 ],
-			"obj-273" : [ "button[13]", "button[13]", 0 ],
-			"obj-63" : [ "number[27]", "number[27]", 0 ],
-			"obj-167" : [ "number[43]", "number[43]", 0 ],
 			"obj-59" : [ "number[28]", "number[28]", 0 ],
-			"obj-14" : [ "slider[1]", "slider[1]", 0 ],
-			"obj-37" : [ "button", "button", 0 ],
+			"obj-274" : [ "button[12]", "button[12]", 0 ],
+			"obj-246" : [ "toggle[1]", "toggle[1]", 0 ],
 			"obj-70" : [ "dial[10]", "dial[10]", 0 ],
-			"obj-21" : [ "slider[7]", "slider[7]", 0 ],
-			"obj-293" : [ "toggle[6]", "toggle[6]", 0 ],
-			"obj-85" : [ "number[38]", "number[38]", 0 ],
-			"obj-224::obj-89" : [ "number[17]", "number[2]", 0 ],
-			"obj-76" : [ "dial[12]", "dial[12]", 0 ],
+			"obj-224::obj-56" : [ "number[2]", "number[2]", 0 ],
+			"obj-96" : [ "number[45]", "number[45]", 0 ],
 			"obj-58" : [ "dial[6]", "dial[6]", 0 ],
-			"obj-41" : [ "number[23]", "number[23]", 0 ],
-			"obj-325" : [ "button[8]", "button[8]", 0 ],
-			"obj-224::obj-72" : [ "number[11]", "number[3]", 0 ],
+			"obj-224::obj-19" : [ "number[9]", "number[1]", 0 ],
+			"obj-77" : [ "number[34]", "number[34]", 0 ],
+			"obj-224::obj-33" : [ "number[19]", "number[3]", 0 ],
 			"obj-17" : [ "slider[4]", "slider[4]", 0 ],
-			"obj-45" : [ "number[22]", "number[22]", 0 ],
-			"obj-81" : [ "number[33]", "number[33]", 0 ],
-			"obj-67" : [ "button[5]", "button[5]", 0 ],
-			"obj-32" : [ "dial", "dial", 0 ],
-			"obj-40" : [ "number[21]", "number[21]", 0 ],
-			"obj-231" : [ "number[46]", "number[46]", 0 ],
-			"obj-224::obj-74" : [ "number[15]", "number[3]", 0 ],
-			"obj-224::obj-179" : [ "number[13]", "number[3]", 0 ],
-			"obj-73" : [ "button[6]", "button[6]", 0 ],
-			"obj-55" : [ "button[3]", "button[3]", 0 ],
-			"obj-34" : [ "number[20]", "number[20]", 0 ],
-			"obj-195" : [ "number[47]", "number[47]", 0 ],
-			"obj-69" : [ "number[29]", "number[29]", 0 ],
-			"obj-275" : [ "button[11]", "button[11]", 0 ],
-			"obj-79" : [ "button[7]", "button[7]", 0 ],
-			"obj-43" : [ "button[1]", "button[1]", 0 ],
-			"obj-75" : [ "number[31]", "number[31]", 0 ],
-			"obj-199" : [ "toggle", "toggle", 0 ],
-			"obj-255" : [ "button[18]", "button[18]", 0 ],
-			"obj-83" : [ "number[36]", "number[36]", 0 ],
-			"obj-270" : [ "toggle[5]", "toggle[5]", 0 ],
-			"obj-102" : [ "button[21]", "button[21]", 0 ],
+			"obj-247" : [ "umenu", "umenu", 0 ],
 			"obj-93" : [ "number[42]", "number[42]", 0 ],
-			"obj-65" : [ "number[30]", "number[30]", 0 ],
-			"obj-266" : [ "button[14]", "button[14]", 0 ],
-			"obj-224::obj-53" : [ "number", "number", 0 ],
-			"obj-220" : [ "slider[8]", "slider[8]", 0 ],
+			"obj-75" : [ "number[31]", "number[31]", 0 ],
+			"obj-224::obj-68" : [ "number[7]", "number[2]", 0 ],
+			"obj-171" : [ "number[44]", "number[44]", 0 ],
 			"obj-92" : [ "number[41]", "number[41]", 0 ],
+			"obj-167" : [ "number[43]", "number[43]", 0 ],
+			"obj-265" : [ "button[15]", "button[15]", 0 ],
+			"obj-67" : [ "button[5]", "button[5]", 0 ],
+			"obj-91" : [ "number[40]", "number[40]", 0 ],
+			"obj-55" : [ "button[3]", "button[3]", 0 ],
+			"obj-224::obj-178" : [ "number[8]", "number[2]", 0 ],
+			"obj-224::obj-74" : [ "number[15]", "number[3]", 0 ],
+			"obj-78" : [ "number[35]", "number[35]", 0 ],
+			"obj-71" : [ "number[32]", "number[32]", 0 ],
+			"obj-361" : [ "toggle[3]", "toggle[3]", 0 ],
+			"obj-21" : [ "slider[7]", "slider[7]", 0 ],
+			"obj-69" : [ "number[29]", "number[29]", 0 ],
+			"obj-43" : [ "button[1]", "button[1]", 0 ],
+			"obj-195" : [ "number[47]", "number[47]", 0 ],
+			"obj-255" : [ "button[18]", "button[18]", 0 ],
+			"obj-158" : [ "button[20]", "button[20]", 0 ],
+			"obj-311" : [ "button[10]", "button[10]", 0 ],
+			"obj-85" : [ "number[38]", "number[38]", 0 ],
+			"obj-143" : [ "button[19]", "button[19]", 0 ],
 			"obj-64" : [ "dial[8]", "dial[8]", 0 ],
 			"obj-15" : [ "slider[2]", "slider[2]", 0 ],
-			"obj-71" : [ "number[32]", "number[32]", 0 ],
-			"obj-91" : [ "number[40]", "number[40]", 0 ],
+			"obj-65" : [ "number[30]", "number[30]", 0 ],
 			"obj-52" : [ "dial[4]", "dial[4]", 0 ],
-			"obj-90" : [ "number[39]", "number[39]", 0 ],
-			"obj-295" : [ "toggle[7]", "toggle[7]", 0 ],
-			"obj-224::obj-88" : [ "number[16]", "number[1]", 0 ],
-			"obj-77" : [ "number[34]", "number[34]", 0 ],
+			"obj-13" : [ "slider", "slider", 0 ],
+			"obj-273" : [ "button[13]", "button[13]", 0 ],
 			"obj-57" : [ "number[6]", "number[6]", 0 ],
+			"obj-16" : [ "slider[5]", "slider[5]", 0 ],
+			"obj-224::obj-65" : [ "number[10]", "number[1]", 0 ],
+			"obj-224::obj-55" : [ "number[1]", "number[1]", 0 ],
+			"obj-224::obj-57" : [ "number[3]", "number[3]", 0 ],
+			"obj-62" : [ "dial[9]", "dial[9]", 0 ],
+			"obj-80" : [ "dial[15]", "dial[15]", 0 ],
+			"obj-325" : [ "button[8]", "button[8]", 0 ],
+			"obj-63" : [ "number[27]", "number[27]", 0 ],
+			"obj-50" : [ "dial[5]", "dial[5]", 0 ],
+			"obj-257" : [ "button[16]", "button[16]", 0 ],
+			"obj-293" : [ "toggle[6]", "toggle[6]", 0 ],
+			"obj-224::obj-63" : [ "number[14]", "number[2]", 0 ],
+			"obj-224::obj-177" : [ "number[12]", "number[1]", 0 ],
+			"obj-83" : [ "number[36]", "number[36]", 0 ],
+			"obj-37" : [ "button", "button", 0 ],
+			"obj-224::obj-90" : [ "number[5]", "number[3]", 0 ],
+			"obj-216" : [ "toggle[2]", "toggle[2]", 0 ],
+			"obj-224::obj-21" : [ "number[18]", "number[2]", 0 ],
+			"obj-74" : [ "dial[13]", "dial[13]", 0 ],
+			"obj-336" : [ "toggle[4]", "toggle[4]", 0 ],
+			"obj-275" : [ "button[11]", "button[11]", 0 ],
+			"obj-90" : [ "number[39]", "number[39]", 0 ],
+			"obj-224::obj-62" : [ "number[4]", "number[1]", 0 ],
+			"obj-46" : [ "dial[2]", "dial[2]", 0 ],
+			"obj-18" : [ "slider[3]", "slider[3]", 0 ],
+			"obj-220" : [ "slider[8]", "slider[8]", 0 ],
+			"obj-224::obj-72" : [ "number[11]", "number[3]", 0 ],
+			"obj-231" : [ "number[46]", "number[46]", 0 ],
+			"obj-32" : [ "dial", "dial", 0 ],
+			"obj-35" : [ "dial[1]", "dial[1]", 0 ],
+			"obj-82" : [ "dial[14]", "dial[14]", 0 ],
+			"obj-266" : [ "button[14]", "button[14]", 0 ],
+			"obj-68" : [ "dial[11]", "dial[11]", 0 ],
+			"obj-102" : [ "button[21]", "button[21]", 0 ],
+			"obj-56" : [ "dial[7]", "dial[7]", 0 ],
+			"obj-224::obj-179" : [ "number[13]", "number[3]", 0 ],
+			"obj-53" : [ "number[26]", "number[26]", 0 ],
+			"obj-199" : [ "toggle", "toggle", 0 ],
+			"obj-20" : [ "slider[6]", "slider[6]", 0 ],
+			"obj-44" : [ "dial[3]", "dial[3]", 0 ],
+			"obj-41" : [ "number[23]", "number[23]", 0 ],
 			"obj-312" : [ "button[9]", "button[9]", 0 ],
+			"obj-61" : [ "button[4]", "button[4]", 0 ],
+			"obj-47" : [ "number[25]", "number[25]", 0 ],
+			"obj-79" : [ "button[7]", "button[7]", 0 ],
+			"obj-224::obj-53" : [ "number", "number", 0 ],
+			"obj-256" : [ "button[17]", "button[17]", 0 ],
+			"obj-49" : [ "button[2]", "button[2]", 0 ],
+			"obj-76" : [ "dial[12]", "dial[12]", 0 ],
+			"obj-45" : [ "number[22]", "number[22]", 0 ],
+			"obj-295" : [ "toggle[7]", "toggle[7]", 0 ],
+			"obj-270" : [ "toggle[5]", "toggle[5]", 0 ],
+			"obj-51" : [ "number[24]", "number[24]", 0 ],
+			"obj-224::obj-88" : [ "number[16]", "number[1]", 0 ],
+			"obj-84" : [ "number[37]", "number[37]", 0 ],
+			"obj-40" : [ "number[21]", "number[21]", 0 ],
+			"obj-81" : [ "number[33]", "number[33]", 0 ],
+			"obj-224::obj-89" : [ "number[17]", "number[2]", 0 ],
+			"obj-14" : [ "slider[1]", "slider[1]", 0 ],
+			"obj-34" : [ "number[20]", "number[20]", 0 ],
+			"obj-73" : [ "button[6]", "button[6]", 0 ],
 			"parameterbanks" : 			{
 
 			}
