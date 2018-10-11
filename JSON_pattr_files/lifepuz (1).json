@@ -1,0 +1,189 @@
+{
+	"pattrstorage" : 	{
+		"name" : "lifepuz",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ObjectCount" : [ 5 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.289057 ],
+					"colour2" : [ 0.225597 ],
+					"colour3" : [ 0.166318 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 2.147239 ],
+					"saturation" : [ 0.0 ],
+					"x_pos" : [ 0.07362 ],
+					"x_rot" : [ 0.052499 ],
+					"y_rot" : [ 0.027959 ],
+					"zoom" : [ 68.645226 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"ObjectCount" : [ 7 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.114946 ],
+					"colour2" : [ 0.071063 ],
+					"colour3" : [ 0.142755 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 2.760736 ],
+					"saturation" : [ 0.18953 ],
+					"x_pos" : [ 0.242312 ],
+					"x_rot" : [ 0.074089 ],
+					"y_rot" : [ 0.050018 ],
+					"zoom" : [ 62.607948 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"ObjectCount" : [ 31 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.06894 ],
+					"colour2" : [ 0.093246 ],
+					"colour3" : [ 0.075544 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 11.932906 ],
+					"saturation" : [ 0.298044 ],
+					"x_pos" : [ 0.326052 ],
+					"x_rot" : [ 0.0 ],
+					"y_rot" : [ 0.0 ],
+					"zoom" : [ 56.449532 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"ObjectCount" : [ 66 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.506555 ],
+					"colour2" : [ 0.4556 ],
+					"colour3" : [ 0.404644 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 2.147239 ],
+					"saturation" : [ 0.969325 ],
+					"x_pos" : [ 0.822086 ],
+					"x_rot" : [ 0.435583 ],
+					"y_rot" : [ 0.23604 ],
+					"zoom" : [ 75.397598 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"ObjectCount" : [ 31 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.671613 ],
+					"colour2" : [ 0.625855 ],
+					"colour3" : [ 0.565208 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 4.335508 ],
+					"saturation" : [ 0.346186 ],
+					"x_pos" : [ 0.148255 ],
+					"x_rot" : [ 0.259232 ],
+					"y_rot" : [ 0.166074 ],
+					"zoom" : [ 53.499275 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"ObjectCount" : [ 17 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.116721 ],
+					"colour2" : [ 0.058497 ],
+					"colour3" : [ 0.103083 ],
+					"cubeTorus" : [ 1 ],
+					"radius" : [ 1.397952 ],
+					"saturation" : [ 0.346186 ],
+					"x_pos" : [ 0.0 ],
+					"x_rot" : [ 0.093158 ],
+					"y_rot" : [ 0.092454 ],
+					"zoom" : [ 85.850494 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"ObjectCount" : [ 31 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 1.0 ],
+					"colour2" : [ 0.868245 ],
+					"colour3" : [ 0.697442 ],
+					"cubeTorus" : [ 1 ],
+					"radius" : [ 11.932906 ],
+					"saturation" : [ 0.116564 ],
+					"x_pos" : [ 0.326052 ],
+					"x_rot" : [ 0.290766 ],
+					"y_rot" : [ 0.220468 ],
+					"zoom" : [ 69.454102 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"ObjectCount" : [ 66 ],
+					"PositionHold" : [ 1 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.060891 ],
+					"colour2" : [ 0.125093 ],
+					"colour3" : [ 0.088517 ],
+					"cubeTorus" : [ 1 ],
+					"radius" : [ 10.104138 ],
+					"saturation" : [ 0.346186 ],
+					"x_pos" : [ 0.822086 ],
+					"x_rot" : [ 0.435583 ],
+					"y_rot" : [ 0.23604 ],
+					"zoom" : [ 58.051659 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"ObjectCount" : [ 66 ],
+					"PositionHold" : [ 0 ],
+					"RotationHold" : [ 0 ],
+					"colour1" : [ 0.220947 ],
+					"colour2" : [ 0.160418 ],
+					"colour3" : [ 0.115832 ],
+					"cubeTorus" : [ 0 ],
+					"radius" : [ 10.104138 ],
+					"saturation" : [ 0.346186 ],
+					"x_pos" : [ 0.822086 ],
+					"x_rot" : [ 0.435583 ],
+					"y_rot" : [ 0.23604 ],
+					"zoom" : [ 82.208588 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,89 @@
+{
+	"pattrstorage" : 	{
+		"name" : "telassim",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"blur" : [ 0.0 ],
+					"fader" : [ 127 ],
+					"grid" : [ 3 ],
+					"grid/wave" : [ 1.0 ],
+					"saturation" : [ 0.0 ],
+					"wave/cam1" : [ 0.0 ],
+					"zoom_x" : [ 1.0 ],
+					"zoom_y" : [ 1.0 ],
+					"zoom_y[1]" : [ 0.05 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"blur" : [ 0.0 ],
+					"fader" : [ 127 ],
+					"grid" : [ 3 ],
+					"grid/wave" : [ 1.0 ],
+					"saturation" : [ 0.25 ],
+					"wave/cam1" : [ 0.0 ],
+					"zoom_x" : [ 0.0 ],
+					"zoom_y" : [ 1.0 ],
+					"zoom_y[1]" : [ 0.05 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"blur" : [ 0.0 ],
+					"fader" : [ 127 ],
+					"grid" : [ 3 ],
+					"grid/wave" : [ 1.0 ],
+					"saturation" : [ 0.25 ],
+					"wave/cam1" : [ 0.0 ],
+					"zoom_x" : [ 0.0 ],
+					"zoom_y" : [ 1.0 ],
+					"zoom_y[1]" : [ 0.05 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"blur" : [ 0.0 ],
+					"fader" : [ 127 ],
+					"grid" : [ 0 ],
+					"grid/wave" : [ 0.0 ],
+					"saturation" : [ 0.25 ],
+					"wave/cam1" : [ 1.0 ],
+					"zoom_x" : [ 1.0 ],
+					"zoom_y" : [ 1.0 ],
+					"zoom_y[1]" : [ 0.05 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"blur" : [ 0.0 ],
+					"fader" : [ 127 ],
+					"grid" : [ 0 ],
+					"grid/wave" : [ 0.0 ],
+					"saturation" : [ 1.0 ],
+					"wave/cam1" : [ 1.0 ],
+					"zoom_x" : [ 0.5 ],
+					"zoom_y" : [ 1.0 ],
+					"zoom_y[1]" : [ 0.05 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
