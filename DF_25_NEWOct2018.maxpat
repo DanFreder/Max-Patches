@@ -26868,7 +26868,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 40.0, 83.0, 700.0, 706.0 ],
+										"rect" : [ 40.0, 83.0, 700.0, 707.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -26914,8 +26914,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "bang" ],
-													"patching_rect" : [ 215.0, 425.0, 61.0, 22.0 ],
-													"text" : "delay 150"
+													"patching_rect" : [ 210.14483642578125, 425.0, 67.0, 22.0 ],
+													"text" : "delay 3000"
 												}
 
 											}
@@ -27288,7 +27288,7 @@
 													"maxclass" : "inlet",
 													"numinlets" : 0,
 													"numoutlets" : 1,
-													"outlettype" : [ "int" ],
+													"outlettype" : [ "" ],
 													"patching_rect" : [ 438.666748046875, 19.0, 30.0, 30.0 ]
 												}
 
@@ -27301,7 +27301,7 @@
 													"maxclass" : "inlet",
 													"numinlets" : 0,
 													"numoutlets" : 1,
-													"outlettype" : [ "int" ],
+													"outlettype" : [ "" ],
 													"patching_rect" : [ 125.916862487792969, 19.0, 30.0, 30.0 ]
 												}
 
@@ -31105,13 +31105,6 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-18", 0 ],
-									"source" : [ "obj-19", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"destination" : [ "obj-34", 0 ],
 									"source" : [ "obj-190", 0 ]
 								}
@@ -31137,13 +31130,6 @@
 								"patchline" : 								{
 									"destination" : [ "obj-89", 0 ],
 									"source" : [ "obj-2", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"destination" : [ "obj-18", 1 ],
-									"source" : [ "obj-20", 0 ]
 								}
 
 							}
@@ -33243,7 +33229,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontsize" : 16.309083395049438,
