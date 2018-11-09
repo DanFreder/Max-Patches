@@ -32325,7 +32325,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 42.0, 85.0, 640.0, 480.0 ],
+						"rect" : [ 42.0, 84.0, 640.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -32359,7 +32359,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 522.0, 19.0, 150.0, 34.0 ],
+									"patching_rect" : [ 522.0, 19.0, 150.0, 33.0 ],
 									"text" : "< strictly for testing purposes"
 								}
 
@@ -32396,7 +32396,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_gl_texture", "" ],
-									"patching_rect" : [ 243.0, 90.0, 260.0, 36.0 ],
+									"patching_rect" : [ 243.0, 90.0, 260.0, 35.0 ],
 									"text" : "jit.gl.camera mod @position 0 0 4 @lookat 0 0 0 @locklook 1"
 								}
 
@@ -32435,7 +32435,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 131.0, 229.129348999999991, 80.0, 36.0 ]
+									"patching_rect" : [ 131.0, 229.129348999999991, 80.0, 35.0 ]
 								}
 
 							}
@@ -32542,7 +32542,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 26.0, 218.629348999999991, 98.0, 57.0 ],
+									"patching_rect" : [ 26.0, 218.629348999999991, 98.0, 55.0 ],
 									"text" : "jit.gl.spoutsender mod @sendername DFpatch"
 								}
 
@@ -32733,7 +32733,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 3,
 									"outlettype" : [ "", "bang", "" ],
-									"patching_rect" : [ 26.0, 156.0, 405.0, 36.0 ],
+									"patching_rect" : [ 26.0, 156.0, 405.0, 35.0 ],
 									"text" : "jit.world mod 1 @fps 60 @erase_color 0 0 0 1 @dim 1920 1080 @size 320 240 @output_texture 1 @fsmenubar 0"
 								}
 
@@ -33600,7 +33600,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ -31966.0, -31966.0, 1468.0, 713.0 ],
+						"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -33627,7 +33627,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-151",
@@ -33636,7 +33635,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1359.0694580078125, 279.758056640625, 29.5, 22.0 ],
-									"text" : "22"
+									"text" : "12"
 								}
 
 							}
@@ -33648,7 +33647,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1322.0694580078125, 279.758056640625, 29.5, 22.0 ],
-									"text" : "21"
+									"text" : "20"
 								}
 
 							}
@@ -33660,7 +33659,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1283.0694580078125, 279.758056640625, 29.5, 22.0 ],
-									"text" : "20"
+									"text" : "8"
 								}
 
 							}
@@ -33744,7 +33743,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1193.1944580078125, 243.758041381835938, 29.5, 22.0 ],
-									"text" : "3"
+									"text" : "2"
 								}
 
 							}
@@ -33756,7 +33755,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1156.1944580078125, 243.758041381835938, 29.5, 22.0 ],
-									"text" : "2"
+									"text" : "3"
 								}
 
 							}
@@ -33827,7 +33826,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1356.5, 243.758041381835938, 29.5, 22.0 ],
-									"text" : "12"
+									"text" : "22"
 								}
 
 							}
@@ -33851,7 +33850,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1280.5, 243.758041381835938, 29.5, 22.0 ],
-									"text" : "8"
+									"text" : "21"
 								}
 
 							}
@@ -48614,7 +48613,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 40.0, 83.0, 1468.0, 714.0 ],
+						"rect" : [ 27.0, 84.0, 1468.0, 715.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -49121,18 +49120,18 @@
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 801.0, 4.833328, 58.0, 22.0 ],
 									"restore" : 									{
-										"colour" : [ 1.0, 1.0, 1.0, 1.0, 0.709112, 1.0, 1.0 ],
+										"colour" : [ 0.3607507, 0.9663553, 0.6851633945464, 1.0, 0.422614, 0.9, 0.663553 ],
 										"dim_x" : [ 20 ],
 										"dim_y" : [ 20 ],
-										"drawmode" : [ 9 ],
-										"line_width" : [ 5.0 ],
-										"manzoom" : [ 1.5 ],
+										"drawmode" : [ 10 ],
+										"line_width" : [ 10.0 ],
+										"manzoom" : [ 1.0 ],
 										"mesh_enable2" : [ 0 ],
-										"point_size" : [ 5.0 ],
+										"point_size" : [ 3.0 ],
 										"rotation" : [ 1 ],
-										"saturation" : [ 1.0 ],
-										"shading" : [ 1 ],
-										"shape2draw" : [ 2 ]
+										"saturation" : [ 0.9 ],
+										"shading" : [ 0 ],
+										"shape2draw" : [ 1 ]
 									}
 ,
 									"text" : "autopattr",
@@ -50716,7 +50715,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 588.666321000000039, 426.026824999999974, 303.666747999999984, 111.0 ],
-									"saturation" : 1.0,
+									"saturation" : 0.9,
 									"varname" : "colour"
 								}
 
