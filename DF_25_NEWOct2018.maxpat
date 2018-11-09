@@ -33600,7 +33600,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
+						"rect" : [ -31966.0, -31966.0, 1468.0, 713.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -33627,6 +33627,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-151",
@@ -34188,13 +34189,13 @@
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 549.0, 513.55010986328125, 58.0, 22.0 ],
 									"restore" : 									{
-										"PosX2" : [ 0.0 ],
-										"PosY2" : [ 0.0 ],
+										"PosX2" : [ 1.0 ],
+										"PosY2" : [ 1.0 ],
 										"PosY4" : [ 0.0 ],
-										"PosZ3" : [ 0.5 ],
+										"PosZ3" : [ 1.0 ],
 										"PosZ4" : [ 1.0 ],
 										"enableShape1" : [ 1 ],
-										"enableShape2" : [ 1 ],
+										"enableShape2" : [ 0 ],
 										"enableShape3" : [ 0 ],
 										"enableShape4" : [ 0 ],
 										"posX1" : [ 0.0 ],
@@ -34208,11 +34209,11 @@
 										"rotateY" : [ 0.0 ],
 										"rotateZ" : [ 5.0 ],
 										"scale4D" : [ 1.0 ],
-										"scaleX" : [ 0.610236 ],
-										"scaleY" : [ 0.270068 ],
+										"scaleX" : [ 0.999884 ],
+										"scaleY" : [ 0.49578 ],
 										"scaleZ" : [ 1.0 ],
-										"swatch1" : [ 1.0, 1.0, 1.0, 1.0, 0.51314, 1.0, 1.0 ],
-										"swatch2" : [ 0.286162, 0.590347, 1.0, 1.0, 0.595646, 1.0, 0.643081 ],
+										"swatch1" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0 ],
+										"swatch2" : [ 0.0, 1.0, 1.0, 1.0, 0.5, 1.0, 0.5 ],
 										"swatch3" : [ 0.523577, 1.0, 0.433675, 1.0, 0.306876, 1.0, 0.716837 ],
 										"swatch4" : [ 1.0, 1.0, 1.0, 1.0, 0.533766, 1.0, 1.0 ]
 									}
@@ -59016,7 +59017,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 40.0, 86.0, 1493.0, 704.0 ],
+						"rect" : [ -31966.0, -31966.0, 1494.0, 704.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
@@ -59043,6 +59044,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-7",
@@ -60359,14 +60361,14 @@
 									"restore" : 									{
 										"colour1" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0 ],
 										"colour2" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0 ],
-										"dim_high" : [ 50 ],
+										"dim_high" : [ 35 ],
 										"dim_low" : [ 4 ],
 										"drawstyle1" : [ 9 ],
 										"drawstyle2" : [ 9 ],
 										"shape1" : [ 1 ],
 										"shape2" : [ 1 ],
-										"zoom1" : [ 1.75 ],
-										"zoom2" : [ 1.75 ]
+										"zoom1" : [ 1.095692 ],
+										"zoom2" : [ 1.095692 ]
 									}
 ,
 									"text" : "autopattr",
