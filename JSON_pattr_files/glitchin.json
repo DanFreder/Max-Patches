@@ -442,6 +442,314 @@
 
 			}
 ,
+			"29" : 			{
+				"id" : 29,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 255, 0, 0 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 1 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 0 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 0 ],
+					"plurYstep" : [ 0 ],
+					"scanwrapColor" : [ 0.0, 0.172879069258448, 0.093488140462306, 1.0, 0.423461981124837, 1.0, 0.086439534629224 ],
+					"tiffanyRange" : [ 0.75 ]
+				}
+
+			}
+,
+			"30" : 			{
+				"id" : 30,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 255, 0, 0 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 0 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 0 ],
+					"plurYstep" : [ 0 ],
+					"scanwrapColor" : [ 0.939851408071399, 1.0, 0.671473581568103, 1.0, 0.197181002071664, 1.0, 0.835736790784051 ],
+					"tiffanyRange" : [ 0.111 ]
+				}
+
+			}
+,
+			"31" : 			{
+				"id" : 31,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 255, 0, 0 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 5 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 0 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 0 ],
+					"plurYstep" : [ 0 ],
+					"scanwrapColor" : [ 1.0, 0.02921879057825, 0.02921879057825, 1.0, 1.0, 1.0, 0.514609395289125 ],
+					"tiffanyRange" : [ 0.33333 ]
+				}
+
+			}
+,
+			"32" : 			{
+				"id" : 32,
+				"data" : 				{
+					"catch1Color" : [ 33, 33, 33 ],
+					"catch2Color" : [ 255, 255, 255 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 2 ],
+					"opSelect2" : [ 7 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 320 ],
+					"plurXstep" : [ 2 ],
+					"plurYrange" : [ 240 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 0.0, 0.975697557995763, 0.674817675122496, 1.0, 0.448604312130745, 1.0, 0.487848778997882 ],
+					"tiffanyRange" : [ 0.333 ]
+				}
+
+			}
+,
+			"33" : 			{
+				"id" : 33,
+				"data" : 				{
+					"catch1Color" : [ 3, 240, 173 ],
+					"catch2Color" : [ 255, 1, 1 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 7 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 0 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 0 ],
+					"plurYstep" : [ 0 ],
+					"scanwrapColor" : [ 0.037556449286294, 0.0, 0.761612627665812, 1.0, 0.674885291183918, 1.0, 0.380806313832906 ],
+					"tiffanyRange" : [ 0.3333 ]
+				}
+
+			}
+,
+			"34" : 			{
+				"id" : 34,
+				"data" : 				{
+					"catch1Color" : [ 33, 33, 33 ],
+					"catch2Color" : [ 255, 255, 255 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 2 ],
+					"opSelect2" : [ 7 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 320 ],
+					"plurXstep" : [ 2 ],
+					"plurYrange" : [ 240 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 0.0, 0.975697557995763, 0.674817675122496, 1.0, 0.448604312130745, 1.0, 0.487848778997882 ],
+					"tiffanyRange" : [ 0.333 ]
+				}
+
+			}
+,
+			"35" : 			{
+				"id" : 35,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 255, 255, 255 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 1 ],
+					"opSelect2" : [ 7 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 640 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 320 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 1.0, 1.0, 1.0, 1.0, 0.708408399191795, 1.0, 1.0 ],
+					"tiffanyRange" : [ 0.333 ]
+				}
+
+			}
+,
+			"36" : 			{
+				"id" : 36,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 0, 5, 5 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 3 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 640 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 480 ],
+					"plurYstep" : [ 40 ],
+					"scanwrapColor" : [ 1.0, 1.0, 1.0, 1.0, 0.64136218317604, 1.0, 1.0 ],
+					"tiffanyRange" : [ 0.333 ]
+				}
+
+			}
+,
+			"37" : 			{
+				"id" : 37,
+				"data" : 				{
+					"catch1Color" : [ 16, 214, 255 ],
+					"catch2Color" : [ 32, 3, 0 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 640 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 480 ],
+					"plurYstep" : [ 40 ],
+					"scanwrapColor" : [ 1.0, 0.189782488325714, 0.189782488325714, 1.0, 1.0, 1.0, 0.594891244162857 ],
+					"tiffanyRange" : [ 0.01 ]
+				}
+
+			}
+,
+			"38" : 			{
+				"id" : 38,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 0, 23, 193 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 320 ],
+					"plurYstep" : [ 75 ],
+					"scanwrapColor" : [ 0.082740023160738, 0.683245841927271, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
+					"tiffanyRange" : [ 0.01 ]
+				}
+
+			}
+,
+			"39" : 			{
+				"id" : 39,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 0, 56, 247 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 0 ],
+					"plurXstep" : [ 0 ],
+					"plurYrange" : [ 320 ],
+					"plurYstep" : [ 320 ],
+					"scanwrapColor" : [ 0.671473581568103, 1.0, 0.766532233146416, 1.0, 0.38155809611499, 1.0, 0.835736790784051 ],
+					"tiffanyRange" : [ 0.01 ]
+				}
+
+			}
+,
+			"40" : 			{
+				"id" : 40,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 14, 0, 32 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 0 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 0 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 50 ],
+					"plurXstep" : [ 5 ],
+					"plurYrange" : [ 5 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 0.082740023160738, 0.683245841927271, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
+					"tiffanyRange" : [ 0.01 ]
+				}
+
+			}
+,
+			"41" : 			{
+				"id" : 41,
+				"data" : 				{
+					"catch1Color" : [ 0, 0, 0 ],
+					"catch2Color" : [ 0, 2, 113 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 0 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 2 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 1 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 50 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 0.0, 0.0, 0.0, 1.0, 0.331273434103174, 1.0, 0.0 ],
+					"tiffanyRange" : [ 0.0 ]
+				}
+
+			}
+,
+			"42" : 			{
+				"id" : 42,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 255, 5, 5 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 0 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 2 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 0 ],
+					"plurMode" : [ 0 ],
+					"plurXrange" : [ 320 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 240 ],
+					"plurYstep" : [ 50 ],
+					"scanwrapColor" : [ 0.082740023160738, 0.683245841927271, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
+					"tiffanyRange" : [ 0.3 ]
+				}
+
+			}
+,
 			"43" : 			{
 				"id" : 43,
 				"data" : 				{
@@ -533,7 +841,7 @@
 			"47" : 			{
 				"id" : 47,
 				"data" : 				{
-					"catch1Color" : [ 255, 255, 255 ],
+					"catch1Color" : [ 160, 255, 112 ],
 					"catch2Color" : [ 255, 255, 255 ],
 					"masterFader" : [ 127 ],
 					"mirrorStraight" : [ 1 ],
@@ -543,11 +851,11 @@
 					"plurColorMode" : [ 0 ],
 					"plurMode" : [ 0 ],
 					"plurXrange" : [ 0 ],
-					"plurXstep" : [ 1 ],
+					"plurXstep" : [ 0 ],
 					"plurYrange" : [ 0 ],
-					"plurYstep" : [ 50 ],
-					"scanwrapColor" : [ 0.082740023160738, 0.683245841927273, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
-					"tiffanyRange" : [ 0.01 ]
+					"plurYstep" : [ 0 ],
+					"scanwrapColor" : [ 0.0, 0.881952371030483, 0.922176325413276, 1.0, 0.507269751144531, 1.0, 0.461088162706638 ],
+					"tiffanyRange" : [ 0.333 ]
 				}
 
 			}
@@ -555,7 +863,7 @@
 			"48" : 			{
 				"id" : 48,
 				"data" : 				{
-					"catch1Color" : [ 31, 254, 179 ],
+					"catch1Color" : [ 32, 253, 134 ],
 					"catch2Color" : [ 255, 1, 1 ],
 					"masterFader" : [ 127 ],
 					"mirrorStraight" : [ 1 ],
@@ -665,8 +973,8 @@
 			"53" : 			{
 				"id" : 53,
 				"data" : 				{
-					"catch1Color" : [ 255, 255, 255 ],
-					"catch2Color" : [ 255, 15, 15 ],
+					"catch1Color" : [ 0, 0, 0 ],
+					"catch2Color" : [ 0, 31, 45 ],
 					"masterFader" : [ 127 ],
 					"mirrorStraight" : [ 1 ],
 					"opSelect1" : [ 6 ],
@@ -674,11 +982,11 @@
 					"opSwitcher" : [ 1 ],
 					"plurColorMode" : [ 0 ],
 					"plurMode" : [ 0 ],
-					"plurXrange" : [ 320 ],
+					"plurXrange" : [ 1 ],
 					"plurXstep" : [ 1 ],
-					"plurYrange" : [ 240 ],
+					"plurYrange" : [ 50 ],
 					"plurYstep" : [ 50 ],
-					"scanwrapColor" : [ 1.0, 1.0, 1.0, 1.0, 0.674885291183918, 1.0, 1.0 ],
+					"scanwrapColor" : [ 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0 ],
 					"tiffanyRange" : [ 0.0 ]
 				}
 
@@ -851,9 +1159,9 @@
 					"plurColorMode" : [ 0 ],
 					"plurMode" : [ 0 ],
 					"plurXrange" : [ 320 ],
-					"plurXstep" : [ 5 ],
+					"plurXstep" : [ 1 ],
 					"plurYrange" : [ 240 ],
-					"plurYstep" : [ 5 ],
+					"plurYstep" : [ 50 ],
 					"scanwrapColor" : [ 0.082740023160738, 0.683245841927271, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
 					"tiffanyRange" : [ 0.3 ]
 				}
@@ -877,6 +1185,28 @@
 					"plurYrange" : [ 320 ],
 					"plurYstep" : [ 100 ],
 					"scanwrapColor" : [ 1.0, 1.0, 1.0, 1.0, 0.632981406174071, 1.0, 1.0 ],
+					"tiffanyRange" : [ 0.333 ]
+				}
+
+			}
+,
+			"63" : 			{
+				"id" : 63,
+				"data" : 				{
+					"catch1Color" : [ 255, 255, 255 ],
+					"catch2Color" : [ 0, 5, 5 ],
+					"masterFader" : [ 127 ],
+					"mirrorStraight" : [ 1 ],
+					"opSelect1" : [ 6 ],
+					"opSelect2" : [ 3 ],
+					"opSwitcher" : [ 1 ],
+					"plurColorMode" : [ 11 ],
+					"plurMode" : [ 17 ],
+					"plurXrange" : [ 640 ],
+					"plurXstep" : [ 1 ],
+					"plurYrange" : [ 480 ],
+					"plurYstep" : [ 40 ],
+					"scanwrapColor" : [ 1.0, 1.0, 1.0, 1.0, 0.64136218317604, 1.0, 1.0 ],
 					"tiffanyRange" : [ 0.333 ]
 				}
 
