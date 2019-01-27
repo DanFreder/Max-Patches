@@ -16,6 +16,7 @@ outlets = 2;
 // manual 2D-array of all vertices for
 // 4D cube (a.k.a hypercube, tesseract)
 var points = new Array2D(16, 4);
+
 points[0] = [-1, -1, 1, 1];
 points[1] = [1, -1, 1, 1];
 points[2] = [1, 1, 1, 1];

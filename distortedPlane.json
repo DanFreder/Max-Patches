@@ -1,0 +1,69 @@
+{
+	"pattrstorage" : 	{
+		"name" : "distortedPlane",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.43646408839779, 1.0, 1.0 ],
+					"drawMode" : [ 1 ],
+					"speed" : [ 300.0 ],
+					"drawMode[1]" : [  ],
+					"scale" : [  ],
+					"colorSwatch2" : [  ],
+					"rotateX" : [  ],
+					"rotateZ" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateZ[1]" : [  ],
+					"enableMesh" : [  ],
+					"dim" : [  ],
+					"bfgBasis" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"colorSwatch" : [ 0.082254032211207, 1.0, 0.071999887319711, 1.0, 0.331491712707182, 1.0, 0.535999943659856 ],
+					"drawMode" : [ 3 ],
+					"speed" : [ 300.0 ],
+					"drawMode[1]" : [  ],
+					"scale" : [  ],
+					"colorSwatch2" : [  ],
+					"rotateX" : [  ],
+					"rotateZ" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateZ[1]" : [  ],
+					"enableMesh" : [  ],
+					"dim" : [  ],
+					"bfgBasis" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"colorSwatch" : [ 1.0, 0.071999887319711, 0.071999887319711, 1.0, 1.0, 1.0, 0.535999943659856 ],
+					"drawMode" : [ 5 ],
+					"speed" : [ 300.0 ],
+					"drawMode[1]" : [  ],
+					"scale" : [  ],
+					"colorSwatch2" : [  ],
+					"rotateX" : [  ],
+					"rotateZ" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateZ[1]" : [  ],
+					"enableMesh" : [  ],
+					"dim" : [  ],
+					"bfgBasis" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

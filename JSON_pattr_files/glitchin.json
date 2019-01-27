@@ -688,7 +688,7 @@
 				"id" : 40,
 				"data" : 				{
 					"catch1Color" : [ 255, 255, 255 ],
-					"catch2Color" : [ 14, 0, 32 ],
+					"catch2Color" : [ 133, 1, 164 ],
 					"masterFader" : [ 127 ],
 					"mirrorStraight" : [ 0 ],
 					"opSelect1" : [ 6 ],
@@ -700,8 +700,8 @@
 					"plurXstep" : [ 5 ],
 					"plurYrange" : [ 5 ],
 					"plurYstep" : [ 50 ],
-					"scanwrapColor" : [ 0.082740023160738, 0.683245841927271, 1.0, 1.0, 0.557554413156347, 1.0, 0.541370011580369 ],
-					"tiffanyRange" : [ 0.01 ]
+					"scanwrapColor" : [ 0.0, 0.0, 0.0, 1.0, 0.64136218317604, 1.0, 0.0 ],
+					"tiffanyRange" : [ 0.333 ]
 				}
 
 			}
