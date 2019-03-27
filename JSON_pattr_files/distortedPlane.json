@@ -5,19 +5,23 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
+					"bfgBasis" : [  ],
 					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.43646408839779, 1.0, 1.0 ],
-					"drawMode" : [ 1 ],
-					"speed" : [ 300.0 ],
-					"drawMode[1]" : [  ],
-					"scale" : [  ],
 					"colorSwatch2" : [  ],
-					"rotateX" : [  ],
-					"rotateZ" : [  ],
-					"rotateX[1]" : [  ],
-					"rotateZ[1]" : [  ],
-					"enableMesh" : [  ],
 					"dim" : [  ],
-					"bfgBasis" : [  ]
+					"drawMode" : [ 1 ],
+					"drawMode[1]" : [  ],
+					"enableMesh" : [  ],
+					"rotateX" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateX[2]" : [ 3.0 ],
+					"rotateX[3]" : [ 3.0 ],
+					"rotateZ" : [  ],
+					"rotateZ[1]" : [  ],
+					"rotateZ[2]" : [ 45.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [  ],
+					"speed" : [ 300.0 ]
 				}
 
 			}
@@ -25,19 +29,23 @@
 			"2" : 			{
 				"id" : 2,
 				"data" : 				{
-					"colorSwatch" : [ 0.082254032211207, 1.0, 0.071999887319711, 1.0, 0.331491712707182, 1.0, 0.535999943659856 ],
-					"drawMode" : [ 3 ],
-					"speed" : [ 300.0 ],
-					"drawMode[1]" : [  ],
-					"scale" : [  ],
+					"bfgBasis" : [  ],
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.43646408839779, 1.0, 1.0 ],
 					"colorSwatch2" : [  ],
-					"rotateX" : [  ],
-					"rotateZ" : [  ],
-					"rotateX[1]" : [  ],
-					"rotateZ[1]" : [  ],
-					"enableMesh" : [  ],
 					"dim" : [  ],
-					"bfgBasis" : [  ]
+					"drawMode" : [ 1 ],
+					"drawMode[1]" : [  ],
+					"enableMesh" : [  ],
+					"rotateX" : [ -30.0 ],
+					"rotateX[1]" : [ -30.0 ],
+					"rotateX[2]" : [ 2.0 ],
+					"rotateX[3]" : [ 2.0 ],
+					"rotateZ" : [ 0.0 ],
+					"rotateZ[1]" : [ 0.0 ],
+					"rotateZ[2]" : [ 0.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [  ],
+					"speed" : [ 300.0 ]
 				}
 
 			}
@@ -45,19 +53,119 @@
 			"3" : 			{
 				"id" : 3,
 				"data" : 				{
+					"bfgBasis" : [  ],
 					"colorSwatch" : [ 1.0, 0.071999887319711, 0.071999887319711, 1.0, 1.0, 1.0, 0.535999943659856 ],
-					"drawMode" : [ 5 ],
-					"speed" : [ 300.0 ],
-					"drawMode[1]" : [  ],
-					"scale" : [  ],
 					"colorSwatch2" : [  ],
-					"rotateX" : [  ],
-					"rotateZ" : [  ],
-					"rotateX[1]" : [  ],
-					"rotateZ[1]" : [  ],
-					"enableMesh" : [  ],
 					"dim" : [  ],
-					"bfgBasis" : [  ]
+					"drawMode" : [ 5 ],
+					"drawMode[1]" : [  ],
+					"enableMesh" : [  ],
+					"rotateX" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateX[2]" : [  ],
+					"rotateX[3]" : [  ],
+					"rotateZ" : [  ],
+					"rotateZ[1]" : [  ],
+					"rotateZ[2]" : [  ],
+					"rotateZ[3]" : [  ],
+					"scale" : [  ],
+					"speed" : [ 300.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"bfgBasis" : [  ],
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.558011049723757, 1.0, 1.0 ],
+					"colorSwatch2" : [ 0.0, 0.10990831829541, 0.918153733473558, 1.0, 0.646715701614296, 1.0, 0.459076866736779 ],
+					"dim" : [  ],
+					"drawMode" : [ 5 ],
+					"drawMode[1]" : [ 3 ],
+					"enableMesh" : [  ],
+					"rotateX" : [  ],
+					"rotateX[1]" : [  ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
+					"rotateZ" : [  ],
+					"rotateZ[1]" : [  ],
+					"rotateZ[2]" : [ 0.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [  ],
+					"speed" : [ 300.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"bfgBasis" : [  ],
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.469613259668508, 1.0, 1.0 ],
+					"colorSwatch2" : [ 0.0, 0.098858553035635, 0.825846041165865, 1.0, 0.646715701614296, 1.0, 0.412923020582933 ],
+					"dim" : [  ],
+					"drawMode" : [ 2 ],
+					"drawMode[1]" : [ 2 ],
+					"enableMesh" : [  ],
+					"rotateX" : [ 0.0 ],
+					"rotateX[1]" : [ 0.0 ],
+					"rotateX[2]" : [ 3.0 ],
+					"rotateX[3]" : [ 3.0 ],
+					"rotateZ" : [  ],
+					"rotateZ[1]" : [ 45.0 ],
+					"rotateZ[2]" : [ 45.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [  ],
+					"speed" : [ 200.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"bfgBasis" : [  ],
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.469613259668508, 1.0, 1.0 ],
+					"colorSwatch2" : [ 0.0, 0.098858553035635, 0.825846041165865, 1.0, 0.646715701614296, 1.0, 0.412923020582933 ],
+					"dim" : [  ],
+					"drawMode" : [ 1 ],
+					"drawMode[1]" : [ 2 ],
+					"enableMesh" : [  ],
+					"rotateX" : [ 0.0 ],
+					"rotateX[1]" : [ 0.0 ],
+					"rotateX[2]" : [ 2.0 ],
+					"rotateX[3]" : [ 3.0 ],
+					"rotateZ" : [  ],
+					"rotateZ[1]" : [ 45.0 ],
+					"rotateZ[2]" : [ 45.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [  ],
+					"speed" : [ 200.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"bfgBasis" : [  ],
+					"colorSwatch" : [ 1.0, 1.0, 1.0, 1.0, 0.43646408839779, 1.0, 1.0 ],
+					"colorSwatch2" : [  ],
+					"dim" : [  ],
+					"drawMode" : [ 1 ],
+					"drawMode[1]" : [  ],
+					"enableMesh" : [  ],
+					"rotateX" : [ 0.0 ],
+					"rotateX[1]" : [ 0.0 ],
+					"rotateX[2]" : [ 2.0 ],
+					"rotateX[3]" : [ 2.0 ],
+					"rotateZ" : [ 0.0 ],
+					"rotateZ[1]" : [ 45.0 ],
+					"rotateZ[2]" : [ 45.0 ],
+					"rotateZ[3]" : [ 0.0 ],
+					"scale" : [ 1.0 ],
+					"speed" : [ 300.0 ]
 				}
 
 			}
