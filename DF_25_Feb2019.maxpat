@@ -7155,8 +7155,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1260.355712890625, 223.363922119140625, 184.0, 160.0 ],
-					"text" : "togetherWe [4,3,5+]\npatience [PJ]\nshillelagh [23/24]\ndelAKdelSry [PJ]\nbetterBright [16,17]\nslow burn [PJ]\nphosphenes [PJ]"
+					"patching_rect" : [ 1265.855712890625, 202.306396484375, 184.0, 160.0 ],
+					"text" : "togetherWe [4,3,5+]\npatience [PJ]\nshillelagh [7/9]\ndelAKdelSry [PJ]\nbetterBright [16,17]\nslow burn [PJ]\nphosphenes [PJ]"
 				}
 
 			}

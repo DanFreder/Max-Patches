@@ -14,14 +14,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 0.0 ],
 					"rotateX[1]" : [ 0.0 ],
-					"rotateX[2]" : [ 3.0 ],
-					"rotateX[3]" : [ 3.0 ],
+					"rotateX[2]" : [ 2.0 ],
+					"rotateX[3]" : [ 2.0 ],
 					"rotateZ" : [  ],
 					"rotateZ[1]" : [  ],
 					"rotateZ[2]" : [ 45.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [  ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -45,7 +47,9 @@
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [  ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [  ],
+					"toggle[8]" : [  ]
 				}
 
 			}
@@ -62,14 +66,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 15.0 ],
 					"rotateX[1]" : [  ],
-					"rotateX[2]" : [ 2.5 ],
-					"rotateX[3]" : [ 2.5 ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [  ],
 					"rotateZ[1]" : [  ],
 					"rotateZ[2]" : [  ],
 					"rotateZ[3]" : [  ],
 					"scale" : [  ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -86,14 +92,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 30.0 ],
 					"rotateX[1]" : [  ],
-					"rotateX[2]" : [ 2.5 ],
-					"rotateX[3]" : [ 2.5 ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [  ],
 					"rotateZ[1]" : [  ],
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [  ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -110,14 +118,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 0.0 ],
 					"rotateX[1]" : [ 0.0 ],
-					"rotateX[2]" : [ 3.0 ],
-					"rotateX[3]" : [ 3.0 ],
+					"rotateX[2]" : [ 2.0 ],
+					"rotateX[3]" : [ 2.0 ],
 					"rotateZ" : [  ],
 					"rotateZ[1]" : [ 45.0 ],
 					"rotateZ[2]" : [ 45.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [  ],
-					"speed" : [ 200.0 ]
+					"speed" : [ 200.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -135,13 +145,15 @@
 					"rotateX" : [ 0.0 ],
 					"rotateX[1]" : [ 0.0 ],
 					"rotateX[2]" : [ 2.0 ],
-					"rotateX[3]" : [ 3.0 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [  ],
 					"rotateZ[1]" : [ 45.0 ],
 					"rotateZ[2]" : [ 45.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [  ],
-					"speed" : [ 200.0 ]
+					"speed" : [ 200.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -158,14 +170,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 300.0 ],
 					"rotateX[1]" : [ 0.0 ],
-					"rotateX[2]" : [ 2.4 ],
+					"rotateX[2]" : [ 2.2 ],
 					"rotateX[3]" : [ 2.0 ],
 					"rotateZ" : [ 0.0 ],
 					"rotateZ[1]" : [ 0.0 ],
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -182,14 +196,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 300.0 ],
 					"rotateX[1]" : [ -300.0 ],
-					"rotateX[2]" : [ 2.4 ],
-					"rotateX[3]" : [ 2.4 ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [ 0.0 ],
 					"rotateZ[1]" : [ 0.0 ],
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -206,14 +222,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 301.0 ],
 					"rotateX[1]" : [ -430.0 ],
-					"rotateX[2]" : [ 2.4 ],
+					"rotateX[2]" : [ 2.2 ],
 					"rotateX[3]" : [ 2.4 ],
 					"rotateZ" : [ 0.0 ],
 					"rotateZ[1]" : [ 0.0 ],
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -237,7 +255,9 @@
 					"rotateZ[2]" : [ 0.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [  ],
+					"toggle[8]" : [  ]
 				}
 
 			}
@@ -254,14 +274,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 80.0 ],
 					"rotateX[1]" : [ -80.0 ],
-					"rotateX[2]" : [ 2.5 ],
-					"rotateX[3]" : [ 2.5 ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [ 0.0 ],
 					"rotateZ[1]" : [ 33.100000000000001 ],
 					"rotateZ[2]" : [ 33.100000000000001 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
@@ -278,14 +300,16 @@
 					"enableMesh" : [  ],
 					"rotateX" : [ 80.0 ],
 					"rotateX[1]" : [ -80.0 ],
-					"rotateX[2]" : [ 2.5 ],
-					"rotateX[3]" : [ 2.5 ],
+					"rotateX[2]" : [ 2.2 ],
+					"rotateX[3]" : [ 2.2 ],
 					"rotateZ" : [ 0.0 ],
 					"rotateZ[1]" : [ 90.0 ],
 					"rotateZ[2]" : [ 90.0 ],
 					"rotateZ[3]" : [ 0.0 ],
 					"scale" : [ 1.0 ],
-					"speed" : [ 300.0 ]
+					"speed" : [ 300.0 ],
+					"toggle[6]" : [ 0.0 ],
+					"toggle[8]" : [ 0.0 ]
 				}
 
 			}
