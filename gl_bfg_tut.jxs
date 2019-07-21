@@ -1,0 +1,52 @@
+<jittershader name="default">
+	<description> Default shader </description>
+	
+	<param name="noiseTex"   type="int" default="0" />
+	<param name="freq"       type="float" default="2.0" />
+	<param name="colorFreqs" type="vec3" default="1.0 1.0 1.0" />
+	 
+	
+	<language name="glsl" version="1.2">
+	
+		<bind param="noiseTex"   program="vp" />
+		<bind param="freq"       program="vp" />
+		<bind param="colorFreqs" program="vp" />
+				
+		<program name="vp" type="vertex">
+<![CDATA[
+
+
+uniform sampler2D noiseTex;
+uniform float	  freq;
+uniform vec3 colorFreqs;
+
+void main (void)
+{	
+	
+	vec2 texcoord = gl_TextureMatrix[0] * gl_MultiTexCoord0;
+	
+	float noise = texture2D(noiseTex, texcoord*freq).x;
+	
+	vec4 posEyeSpace = gl_ModelViewMatrix * gl_Vertex;
+	
+	vec3 normal = gl_NormalMatrix * gl_Normal;
+	normal = normalize(normal);
+	
+	vec4 newPos = posEyeSpace + vec4(normal, 0.0)*noise;
+	
+    gl_Position = gl_ProjectionMatrix * newPos;
+
+	gl_FrontColor = vec4(abs(sin(noise * colorFreqs.x)), abs(cos(noise*colorFreqs.y)), abs(sin(noise*colorFreqs.z + 1000)), 1.0);
+}
+]]>		
+		</program>
+		<program name="fp" type="fragment">
+<![CDATA[
+void main()
+{	
+	gl_FragColor = gl_Color;
+} 
+]]>
+		</program>
+	</language>
+</jittershader>
